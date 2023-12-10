@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Flowy';
+  src: url('./VarinonormalRegular.otf');
+  src: url('./VarinonormalRegular.otf') format('otf'),
+       url('./VarinonormalRegular.ttf') format('truetype');
+}
+
+.text-flowy {
+  font-family: 'Flowy';
+}
