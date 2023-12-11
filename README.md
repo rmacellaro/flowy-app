@@ -1,4 +1,7 @@
 # Flowy App
+
+<img src="https://raw.githubusercontent.com/rmacellaro/flowy-solution/master/Documentation/logo.jpg" width="100" height="100">
+
 Si tratta di un applicativo angular che interfaccia l'api rest disponibile in questo repository: [flowy-solution](https://github.com/rmacellaro/flowy-solution).
 Flowy vuole essere un sistema di workflow management basato su [Camunda 8 self-managed](https://docs.camunda.io/docs/self-managed/about-self-managed/), che consente di gestire schemi di processo che rispondono allo standard BPMN 2. che aggiunge funzionalità extra, come in salvataggio di bozze di processo e form di interazione utente, con la possibilità di editare gli schemi e le form direttamente da editor web.
 
